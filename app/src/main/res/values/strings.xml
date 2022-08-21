@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello">Hello! My name is Irania and I watched Spirited Away for the first time last week. I hope to learn more about Android app development and look forward to working on my own app.</string>
+    <string name="hello_button">Say Hello!</string>
+    <string name="todo">TODO</string>
+</resources>
