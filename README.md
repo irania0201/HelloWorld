@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I did encounter some issues with the image not appearing in the emulator and the color of the button not changing as well. However, after trying different emulators, the problem was resolved.
 
 ## License
